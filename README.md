@@ -1,3 +1,5 @@
+# Tableau Extension API Tutorial Part Three
+
 Tableau Extensions API Tutorial Part Three
 
 To install the code and get up and running:
