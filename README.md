@@ -8,7 +8,7 @@ Install Yarn
 Install Git
 Once installed, clone this repository:
 
-git clone https://github.com/tableaumagic/tableau-extensions-tutorial-part-three
+git clone https://github.com/jasbir84/tableau-extensions-tutorial-part-three
 Use npm to install a http-server
 
 $ npm install http-server -g
